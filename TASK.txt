@@ -1,0 +1,2 @@
+Given an array A of size N. Form two new arrays B and C: in the array B write all the positive elements of the array A, in the array C - all the negative (keeping the initial order of the elements). Print first the size and contents of array B, and then the size and contents of array C.
+To the written code to carry out integration testing "From top to bottom".
